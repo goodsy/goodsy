@@ -16,34 +16,28 @@ Java · Spring 기반으로 **PG 결제·정산·배치 시스템**을 개발해
 ---
 
 ### 🛠 Tech Stack
-- **Language**: Java 17
-- **Framework**: Spring Boot, Spring Batch, JPA, QueryDSL
-- **DB**: MariaDB, Oracle
-- **Infra**: Linux, Nginx, Jenkins
-- **ETC**: Git, Jira
 
----
+#### 🧑‍💻 Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-### 🔑 Focus Area
-- PG 결제·정산 도메인 모델링
-- 배치 플랫폼 아키텍처 설계
-- 데이터 정합성 및 검증 전략
-- 대량 트래픽/배치 성능 최적화
-- 헥사고날 아키텍처 설계
+#### ⚙️ Frameworks & Libraries
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis,linux,git,jenkins" />
+#### 🛠 Tools & Platforms
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 
 ---
 
 ## ✍️ Blog
 - 기술 블로그: https://goodsy.github.io/sykim-project/
-
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true&hide_title=true)
 
 ---
 
