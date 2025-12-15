@@ -18,7 +18,7 @@ Java · Spring 기반으로 **PG 결제·정산·배치 시스템**을 개발해
 ### 🛠 Tech Stack
 
 #### 🧑‍💻 Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 #### ⚙️ Frameworks & Libraries
